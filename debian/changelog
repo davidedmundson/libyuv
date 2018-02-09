@@ -1,0 +1,53 @@
+libyuv (0.0.1281-1~xenial+1) stable; urgency=low
+
+  * Build
+ 
+ -- David Edmundson <davidedmundson@kde.org>  Sun, 08 Feb 2017 12:40:10 -0600
+
+libyuv (0.0.1280-1~wheezy+1) stable; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:36:40 -0600
+
+libyuv (0.0.1280-1~wheezy+1) stable; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:35:09 -0600
+
+libyuv (0.0.1280-1~jessie+1) testing; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:35:08 -0600
+
+libyuv (0.0.1280-1~sid+1) unstable; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:35:08 -0600
+
+libyuv (0.0.1280-1~wheezy+1) stable; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:34:44 -0600
+
+libyuv (0.0.1280-1~jessie+1) testing; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:34:43 -0600
+
+libyuv (0.0.1280-1~sid+1) unstable; urgency=low
+
+  * Nightly build.
+
+ -- William King <william.king@quentustech.com>  Sun, 01 Mar 2015 09:34:43 -0600
+
+libyuv (0.0.1280-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- William King <william.king@quentustech.com>  Thu, 12 Feb 2015 09:47:31 -0800
